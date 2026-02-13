@@ -1,4 +1,5 @@
 **Description:** Deployed a pre-trained ResNet50 model for image classification on CPU-based infrastructure.
+<img width="798" height="151" alt="cat-image-classifier" src="https://github.com/user-attachments/assets/e1f8085c-748f-429b-908d-51d560b420d2" />
 
 **Key Features:**
 - Utilizes PyTorch's pre-trained ResNet50 (ImageNet weights)
